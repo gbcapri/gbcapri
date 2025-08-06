@@ -1,3 +1,3 @@
 Hi there
 My name is Gabriel and i am a student of 'analisis and development of systems'
-I have knowledge of the languages C, Java, Javascript, html, CSS, SQL
+I have knowledge of the languages C, Java, Javascript, html, CSS, php, SQL
